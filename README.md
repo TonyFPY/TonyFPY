@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m a MSCS student at Brown University 🎓 starting from 2022 Fall. Currently, I am actively seeking for SDE / MLE internship opportunities for 2023 Summer. Please reach me 😄 if you are interested!
+I’m a MSCS student at Brown University 🎓 starting from 2022 Fall. Currently, I am actively seeking for SDE / MLE internship opportunities for 2023 Summer. Please reach out to me 😄 if you are interested!
 
 #### My Info
 
