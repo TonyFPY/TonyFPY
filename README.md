@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m a MSCS student at Brown University 🎓 starting from 2022 Fall and is expected to graduate in Spring 2024. Please reach out to me 😄 if you want to know more about me!
+I’m a PhD student at Columbia University 🎓 starting from 2024 Fall. Please reach out to me 😄 if you want to know more about me!
 
 #### My Info
 
 🖥️ Here is my **[person website](https://tonyfpy.github.io/about/)** to share my ideas.
 
-💬 I am interested in **Human-AI Interaction**. If you have any ideas about **Interactive Intelligence**, feel free to contact me.
+💬 I am interested in **Neural AI**, **Cognitive Computational Neuroscience**, **Representation Learning**, **Human-AI Interaction**. If you want to share any ideas, please contact me.
 
 📞 Connect with me
 
