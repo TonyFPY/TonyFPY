@@ -19,8 +19,6 @@ I’m a PhD student at Columbia University 🎓 starting from 2024 Fall. Please 
 
 #### My Info
 
-🖥️ Here is my **[person website](https://tonyfpy.github.io/about/)** to share my ideas.
-
 💬 I am interested in **Neural AI**, **Cognitive Computational Neuroscience**, **Representation Learning**, **Human-AI Interaction**. If you want to share any ideas, please contact me.
 
 📞 Connect with me
