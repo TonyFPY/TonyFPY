@@ -19,7 +19,7 @@ I’m a PhD student at Columbia University 🎓 starting from 2024 Fall. Please 
 
 #### My Info
 
-💬 I am interested in **Neural AI**, **Cognitive Computational Neuroscience**, **Representation Learning**, **Human-AI Interaction**. If you want to share any ideas, please contact me.
+💬 I am interested in **Multimodal AI**, **Human-AI Interaction**, **Neural Interfaces**, **AI for Brain Science**. If you want to share any ideas, please contact me.
 
 📞 Connect with me
 
